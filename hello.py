@@ -1,4 +1,4 @@
-j=0
-k=int(input())
-for j in range(j,k):
+l=0
+m=int(input())
+for l in range(l,m):
     print("hello")
