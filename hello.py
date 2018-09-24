@@ -1,4 +1,4 @@
 count=0
 while(count < 7):
-    print("hello")
+    print("hello"),
     count=count+1
