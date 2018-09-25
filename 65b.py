@@ -1,2 +1,2 @@
-d = "hello world"
+d = "sad sad"
 print d
