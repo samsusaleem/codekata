@@ -1,3 +1,3 @@
 string=(raw_input(""))
-string=string+".saleem"
+string=string+"."
 print (string)
