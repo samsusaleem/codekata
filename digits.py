@@ -1,2 +1,2 @@
-word=int(input("enter the num"))
-print len(str(abs(word)))
+set=int(input())
+print len(str(abs(set)))
